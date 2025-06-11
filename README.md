@@ -1,0 +1,1 @@
+Hello! This project is my first ever video game made in Unreal Engine 5! It doesn't have good art or any music, and the gameplay loop is simple, but it's my first stepping stone to becoming a better video game developer!
